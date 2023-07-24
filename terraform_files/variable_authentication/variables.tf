@@ -3,9 +3,9 @@ variable "url" {
 }
 
 variable "username" {
-  default = "df2afa07-1495-497c-a120-8aa43e36d038"
+  default = "access_key"
 }
 
 variable "password" {
-  default = "EO4XfcYs6inG/rsHi7KYb//nKsw="
+  default = "secret_key"
 }
